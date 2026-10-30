@@ -1,0 +1,10 @@
+{
+  "name": "KrishiSahayak",
+  "description": "Smart Agriculture Platform for Indian Farmers — Weather forecasts, mandi marketplace prices, crop alerts, AlertGuard, and agri-news in English and Kannada.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
